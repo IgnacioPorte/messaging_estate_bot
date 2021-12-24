@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mysqlclient
+peewee
+psycopg2
+selenium
+webdriver-manager
+python-dotenv
