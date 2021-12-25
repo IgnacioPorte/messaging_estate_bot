@@ -6,7 +6,7 @@ Scraper API bot that enable a real estate broker to message sellers of particula
 pip install -r requirements.txt
 ```
 
-## Activate env
+## Activate venv
 ```console
 Scripts\Activate.ps1
 ```
@@ -14,4 +14,9 @@ Scripts\Activate.ps1
 ## Run server
 ```console
 uvicorn main:app --reload
+```
+
+## Config .env
+```console
+API_KEY='2CAPTCHA_API_KEY'
 ```
